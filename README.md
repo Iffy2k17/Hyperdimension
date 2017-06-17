@@ -1,0 +1,2 @@
+# Hyperdimension
+Multifunctional discord bot
